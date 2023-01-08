@@ -6,9 +6,9 @@ This repository contains a collection of materials and projects that will be wor
 
 ✅ Introduction to React
 
-◻️ Starting a React Project
+✅ Starting a React Project
 
-◻️ React Components
+✅ React Components
 
 ◻️ State and Props
 
