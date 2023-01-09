@@ -10,7 +10,7 @@ This repository contains a collection of materials and projects that will be wor
 
 ✅ React Components
 
-◻️ State and Props
+✅ State and Props
 
 ◻️ Managing State with Redux
 
